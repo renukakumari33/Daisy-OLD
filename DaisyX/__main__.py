@@ -63,7 +63,7 @@ from DaisyX.modules.helper_funcs.misc import paginate_modules
 from DaisyX.modules.helper_funcs.readable_time import get_readable_time
 
 PM_START_TEXT = """
-Hello there, I'm [Franky](https://images.app.goo.gl/RQAzG9aUVgEasxJk9)
+Hello there, I'm [𝓐𝓶𝓪𝓷𝓭𝓪ܔ](https://images.app.goo.gl/xiwb62yWozJEab138)
 
 I am an 𝐴𝑛𝑖𝑚𝑒 Themed Group Managing Bot and I will help in managing your group
 
@@ -79,14 +79,14 @@ buttons = [
     ],
     [
         InlineKeyboardButton(
-            text="💫 Add Daisy to your group 💫", url="t.me/Flanky?startgroup=true"
+            text="💫 Add Daisy to your group 💫", url="t.me/𝓐𝓶𝓪𝓷𝓭𝓪ܔ?startgroup=true"
         ),
     ],
 ]
 
 
 HELP_STRINGS = f"""
-*Main Commands :* [🤖](https://images.app.goo.gl/RQAzG9aUVgEasxJk9)
+*Main Commands :* [🤖](https://images.app.goo.gl/xiwb62yWozJEab138)
 ✪ /start: Starts me! You've probably already used this.
 ✪ /help: Click this, I'll let you know about myself!
 ✪ /donate: You can support my creater using this command.
@@ -101,7 +101,7 @@ HELP_STRINGS = f"""
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
 You can donate to the original writer's of the Base code,
-Support them  [Tujan](t.me/TujanGamage),[Jason](t.me/imjanindu),"""
+Support them  [Inuka](t.me/InukaASiTH),[Jason](t.me/imjanindu),"""
 
 IMPORTED = {}
 MIGRATEABLE = []
